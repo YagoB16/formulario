@@ -1,0 +1,46 @@
+.form {
+    margin: 250px auto;
+    width: 400px;
+    padding: 1em;
+    border: 0.1px solid #ccc;
+    border-radius: 1em;
+    background-image: linear-gradient(red, rgb(14, 4, 4));
+
+}
+input{
+    background-color: rgb(224, 216, 218);
+}
+
+.pergunta, .mensagem {
+    font-weight: bold;
+}
+
+#nome, #email, #telefone{
+    border: solid 0.1px;
+    border-radius: 5px ;
+}
+
+.selecao {
+    cursor: pointer;
+}
+#area, #nascimento {
+    cursor: pointer;
+}
+
+#msg{
+    border-radius: 5px;
+    width: 400px;
+    height: 5em;
+    
+}
+.tecnologia{
+    border-radius: 1em;
+    margin-top: 1em;
+}
+
+
+form div + div {
+    margin-top: 1em;
+}
+
+
