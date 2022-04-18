@@ -4,7 +4,7 @@
     padding: 1em;
     border: 0.1px solid #ccc;
     border-radius: 1em;
-    background-image: linear-gradient(red, rgb(14, 4, 4));
+    background-image: linear-gradient(rgb(0, 255, 242), rgb(14, 4, 4));
 
 }
 input{
@@ -42,5 +42,4 @@ input{
 form div + div {
     margin-top: 1em;
 }
-
 
